@@ -1,0 +1,18 @@
+# Virtual environments
+matrix_env/
+venv/
+env/
+.env
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Distribution files
+*.egg-info/
+dist/
+build/
+
+# IDE files
+.vscode/
+.idea/
